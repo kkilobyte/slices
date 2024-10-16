@@ -1,4 +1,4 @@
-module github.com/go-corelibs/slices
+module github.com/kkilobyte/slices
 
 go 1.23
 
